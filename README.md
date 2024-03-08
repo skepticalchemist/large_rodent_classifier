@@ -27,3 +27,6 @@ Despite the limited dataset size (approximately 150 per rodent), the model demon
 * They share similar lifespans, ranging from 14 to 16 years.
 * While pacas are solitary animals, agoutis live in small groups, and capybaras form large social groups.
 * All three species contribute to seed dispersal by burying and forgetting food sources.
+
+*Try it yourself here:*
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/skepticalchemist/large_rodent_classifier/HEAD?urlpath=%2Fvoila%2Frender%2Flrodent_classifier_WebApp.ipynb)
